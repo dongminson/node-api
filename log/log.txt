@@ -1,0 +1,135 @@
+2019-11-17T15:16:31.252Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:16:39.682Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:17:33.648Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:17:33.914Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:19:40.940Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:20:36.606Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:23:44.639Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:23:44.968Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:29:57.623Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:36:20.277Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:36:25.179Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:36:32.045Z User 5dd168fea12ff63a866739fb unsuccessfully performed a POST request inside api/users 
+2019-11-17T15:40:50.023Z User 5db46d99ca7ccb580cd0d747 successfully performed a POST request inside api/auth 
+2019-11-17T15:41:57.056Z Authorization error triggered, invalid token was provided. 
+2019-11-17T15:43:58.557Z User 5db46d99ca7ccb580cd0d747 unsuccessfully performed a GET request inside api/posts 
+2019-11-17T15:44:19.484Z User 5db46d99ca7ccb580cd0d747 unsuccessfully performed a GET request inside api/posts 
+2019-11-17T15:44:27.166Z User 5db46d99ca7ccb580cd0d747 unsuccessfully performed a GET request inside api/posts 
+2019-11-17T15:44:27.814Z User 5db46d99ca7ccb580cd0d747 unsuccessfully performed a GET request inside api/posts 
+2019-11-17T15:44:30.910Z User 5db46d99ca7ccb580cd0d747 unsuccessfully performed a GET request inside api/posts 
+2019-11-17T15:45:16.534Z User 5db46d99ca7ccb580cd0d747 unsuccessfully performed a GET request inside api/posts 
+2019-11-17T15:47:42.491Z User 5db46d99ca7ccb580cd0d747 successfully performed a GET request inside api/posts 
+2019-11-17T15:48:27.781Z Authorization error triggered, invalid token was provided. 
+2019-11-17T15:49:54.806Z User 5db46d99ca7ccb580cd0d747 unsuccessfully performed a POST request inside api/posts 
+2019-11-17T15:50:07.858Z User 5db46d99ca7ccb580cd0d747 successfully performed a POST request inside api/posts 
+2019-11-17T15:50:28.677Z User 5db46d99ca7ccb580cd0d747 successfully performed a POST request inside api/posts 
+2019-11-17T15:55:45.424Z User 5db46d99ca7ccb580cd0d747 successfully performed a POST request inside api/posts 
+2019-11-17T15:56:01.711Z Authorization error triggered, invalid token was provided. 
+2019-11-17T16:36:09.159Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/users 
+2019-11-17T16:36:26.106Z User 5dd1770912afcc5792b381d3 unsuccessfully performed a POST request inside api/users 
+2019-11-17T16:36:31.770Z User 5dd1770fbe00f054c22d3da2 unsuccessfully performed a POST request inside api/users 
+2019-11-17T16:36:39.060Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T16:36:42.859Z User 5dd1771a12afcc5792b381d4 unsuccessfully performed a POST request inside api/users 
+2019-11-17T16:37:13.778Z Guest unsuccessfully performed a POST request inside api/auth 
+2019-11-17T16:37:16.799Z User 5dd1771a12afcc5792b381d4 successfully performed a POST request inside api/auth 
+2019-11-17T16:37:23.541Z User 5db46d99ca7ccb580cd0d747 successfully performed a GET request inside api/posts 
+2019-11-17T16:37:46.451Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/posts 
+2019-11-17T16:37:51.630Z Authorization error triggered, invalid token was provided. 
+2019-11-17T16:37:58.368Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/friends 
+2019-11-17T16:38:09.945Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/friends 
+2019-11-17T16:38:20.718Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/friends 
+2019-11-17T16:38:33.383Z User 5dd17789be00f054c22d3da3 unsuccessfully performed a POST request inside api/users 
+2019-11-17T16:38:42.034Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/friends 
+2019-11-17T16:38:44.000Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/friends 
+2019-11-17T16:39:22.718Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/friends 
+2019-11-17T16:41:06.686Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/friends 
+2019-11-17T16:41:36.508Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/friends 
+2019-11-17T16:44:16.090Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/friends 
+2019-11-17T16:44:25.554Z Guest unsuccessfully performed a POST request inside api/users 
+2019-11-17T16:44:28.879Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/friends 
+2019-11-17T16:44:34.789Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/friends 
+2019-11-17T16:44:41.792Z User 5dd178f9c629845bc279884d unsuccessfully performed a POST request inside api/users 
+2019-11-17T16:44:43.343Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/friends 
+2019-11-17T16:46:52.162Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/friends 
+2019-11-17T16:46:55.983Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/posts 
+2019-11-17T16:46:58.196Z User 5db46d99ca7ccb580cd0d747 successfully performed a GET request inside api/posts 
+2019-11-17T16:47:43.853Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/posts 
+2019-11-17T16:47:49.758Z User 5db46d99ca7ccb580cd0d747 successfully performed a GET request inside api/posts 
+2019-11-17T16:48:17.987Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/posts 
+2019-11-17T16:48:22.386Z User 5db46d99ca7ccb580cd0d747 successfully performed a GET request inside api/posts 
+2019-11-17T22:56:33.767Z Authorization error triggered, no token was provided. 
+2019-11-17T23:38:38.230Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-17T23:38:45.803Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-17T23:39:33.693Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-17T23:44:48.850Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-17T23:46:18.689Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-17T23:48:01.873Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-17T23:48:57.240Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-17T23:49:31.690Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:11:42.154Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:15:40.533Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:16:33.310Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:28:26.850Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:32:00.036Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:35:28.654Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:36:06.761Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:38:38.050Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:42:04.046Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:42:19.166Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:51:07.766Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:51:16.831Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:51:49.992Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:51:56.811Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:52:00.214Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:52:18.660Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:52:39.355Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:53:01.487Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:53:12.698Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:53:25.998Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:53:26.645Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:54:06.954Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:55:26.458Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T00:59:56.829Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:02:23.679Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:03:50.189Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:06:03.808Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:07:19.283Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:09:15.420Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:09:43.083Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:10:13.828Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:12:50.826Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:19:39.435Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:23:06.020Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T01:28:51.099Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T02:04:27.992Z Authorization error triggered, invalid token was provided. 
+2019-11-18T02:04:52.090Z User 5dd1771a12afcc5792b381d4 successfully performed a POST request inside api/auth 
+2019-11-18T02:05:01.958Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T02:05:22.373Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T02:05:24.502Z Guest unsuccessfully performed a GET request inside api/posts/:id 
+2019-11-18T02:06:33.629Z Guest successfully performed a GET request inside api/posts/:id 
+2019-11-18T02:07:05.610Z Guest successfully performed a GET request inside api/posts/:id 
+2019-11-18T02:07:43.237Z Guest successfully performed a GET request inside api/posts/:id 
+2019-11-18T02:07:47.702Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/friends 
+2019-11-18T02:07:51.444Z Guest successfully performed a GET request inside api/posts/:id 
+2019-11-18T02:08:23.117Z Guest successfully performed a GET request inside api/posts/:id 
+2019-11-18T02:08:50.172Z Guest successfully performed a GET request inside api/posts/:id 
+2019-11-18T02:09:42.212Z Guest successfully performed a GET request inside api/posts/:id 
+2019-11-18T02:09:48.161Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/posts 
+2019-11-18T02:09:57.194Z Authorization error triggered, invalid token was provided. 
+2019-11-18T02:10:33.492Z User 5dd1771a12afcc5792b381d4 successfully performed a GET request inside api/posts 
+2019-11-18T02:10:42.174Z User 5dd1771a12afcc5792b381d4 successfully performed a GET request inside api/posts 
+2019-11-18T02:11:10.799Z User 5dd1771a12afcc5792b381d4 successfully performed a GET request inside api/posts 
+2019-11-18T02:11:14.894Z User 5dd1771a12afcc5792b381d4 successfully performed a GET request inside api/posts 
+2019-11-18T02:11:21.045Z User 5dd1771a12afcc5792b381d4 successfully performed a GET request inside api/posts 
+2019-11-18T02:14:49.017Z User 5dd1771a12afcc5792b381d4 unsuccessfully performed a DELETE request inside api/posts/:id 
+2019-11-18T02:15:03.975Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/posts 
+2019-11-18T02:15:38.552Z User 5dd1771a12afcc5792b381d4 successfully performed a POST request inside api/posts 
+2019-11-18T02:15:50.578Z User 5dd1771a12afcc5792b381d4 successfully performed a DELETE request inside api/posts/:id 
+2019-11-18T02:37:25.723Z Authorization error triggered, invalid token was provided. 
+2019-11-18T02:37:28.978Z User 5dd176f812afcc5792b381d2 unsuccessfully performed a POST request inside api/friends 
+2019-11-18T02:37:35.695Z User 5dd203ef3c4be4f91252ab55 unsuccessfully performed a POST request inside api/users 
+2019-11-18T02:37:44.010Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/friends 
+2019-11-18T02:46:44.948Z User 5dd206147ce994022fd0850b unsuccessfully performed a POST request inside api/users 
+2019-11-18T02:46:57.850Z User 5dd176f812afcc5792b381d2 successfully performed a POST request inside api/friends 
+2019-11-18T02:48:48.958Z User 5dd1771a12afcc5792b381d4 successfully performed a POST request inside api/posts 
+2019-11-18T02:48:55.470Z User 5dd1771a12afcc5792b381d4 successfully performed a GET request inside api/posts 
